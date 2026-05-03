@@ -1,5 +1,10 @@
 [
   {
+    "id": "1777817657914",
+    "content": "[Analyse vidéo de matchs de soccer par vision par ordinateur - Claude](https://claude.ai/chat/524faebd-2f38-47a8-9c0f-410a182de96e)\n\n> Les masques viennent de SAM2, qu'ils ont utilisé de manière semi-supervisée : YOLO propose des positions initiales, SAM2 produit les masques, puis un humain vérifie et corrige chaque résultat. C'est cette vérification humaine qui rend les masques fiables comme ground truth",
+    "timestamp": "2026-05-03T14:14:17.914Z"
+  },
+  {
     "id": "1777199829724",
     "content": "[Évaluation comparative d'algorithmes d'apprentissage par renforcement - Claude](https://claude.ai/chat/e1dcb418-b49b-4438-b20e-a06f83d8899a)\n\n> Bloqué à -1.000 du début à la fin, ça ne bouge pas. Le réseau est coincé dans un minimum local où il choisit toujours la mauvaise action.  C'est un résultat parfaitement documentable dans le rapport : AlphaZero sur LineWorld est un cas d'algorithme surdimensionné pour le problème. Le réseau neural n'arrive pas à apprendre une politique triviale (aller à droite) parce que le signal de reward est trop rare et l'architecture trop lourde pour 5 états. C'est exactement le genre d'insight que le prof attend — savoir quand un algorithme n'est PAS adapté.",
     "timestamp": "2026-04-26T10:37:09.724Z"
